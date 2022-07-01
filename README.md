@@ -1,1 +1,1 @@
-- https://crossoriginrequests.herokuapp.com
+https://crossoriginrequests.herokuapp.com
